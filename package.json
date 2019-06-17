@@ -26,7 +26,7 @@
     "leaflet-dist": "vperron/leaflet-dist#0.7.x",
     "leaflet-distortableimage": "publiclab/Leaflet.DistortableImage#^0.4.3",
     "leaflet-draw": "Leaflet/Leaflet.draw#0.2.4",
-    "leaflet-easybutton": "CliffCloud/Leaflet.EasyButton#1.0.0",
+    "leaflet-easybutton": "CliffCloud/Leaflet.EasyButton#v2.4.0",
     "leaflet-environmental-layers": "publiclab/leaflet-environmental-layers#^1.1.2",
     "leaflet-fullhash": "sagarpreet-chadha/leaflet-fullHash#*",
     "leaflet-illustrate": "manleyjster/Leaflet.Illustrate#31d7daa42fb140c063c4a9d9ccf13a279bb1b8d7",
